@@ -27,7 +27,7 @@ namespace Dawstin___NestedObjects
         public string SchoolEmail { get; set; }
 
         public string PhoneNumber { get; set; }
-
+        
         public Advisor AssignedAdvisor { get; set; }
     }
 }
